@@ -1,0 +1,31 @@
+"first-commit"
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	new file:   temp/Cache/Cache_Data/0b5be4f49ce1690a_0
+#	new file:   temp/Cache/Cache_Data/21ca5dc34c174ec0_0
+#	new file:   temp/Cache/Cache_Data/2a9f176026bec49b_0
+#	new file:   temp/Cache/Cache_Data/6e9bfb1d9f05b7ee_0
+#	new file:   temp/Cache/Cache_Data/9ed58e1d5cab85d6_0
+#	new file:   temp/Cache/Cache_Data/c374b74562484f64_0
+#	new file:   temp/Cache/Cache_Data/f6f2b2795f472ac9_0
+#	new file:   temp/Cache/Cache_Data/ff2143e61895d86f_0
+#	modified:   temp/Cache/Cache_Data/index-dir/the-real-index
+#	modified:   temp/DawnCache/data_1
+#	modified:   temp/GPUCache/data_0
+#	modified:   temp/GPUCache/data_1
+#	modified:   temp/GPUCache/data_2
+#	modified:   temp/GPUCache/index
+#	modified:   temp/TransportSecurity
+#	modified:   temp/User/globalStorage/state.vscdb
+#	modified:   temp/User/globalStorage/storage.json
+#	modified:   temp/User/workspaceStorage/c2ee34700d93b66a49c54d2454861822/state.vscdb
+#	modified:   temp/logs/20231227T031704/window1/exthost/exthost.log
+#	modified:   temp/logs/20231227T031704/window1/exthost/vscode.git/Git.log
+#	modified:   temp/logs/20231227T031704/window1/views.log
+#
+# Changes not staged for commit:
+#	modified:   temp/logs/20231227T031704/window1/exthost/vscode.git/Git.log
+#
