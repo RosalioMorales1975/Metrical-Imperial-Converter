@@ -1,0 +1,23 @@
+Everthing
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	modified:   temp/Cache/Cache_Data/index-dir/the-real-index
+#	modified:   temp/DawnCache/data_1
+#	modified:   temp/GPUCache/data_0
+#	modified:   temp/GPUCache/data_1
+#	modified:   temp/GPUCache/data_2
+#	modified:   temp/GPUCache/index
+#	modified:   temp/TransportSecurity
+#	modified:   temp/User/globalStorage/state.vscdb
+#	modified:   temp/User/globalStorage/storage.json
+#	modified:   temp/User/workspaceStorage/c2ee34700d93b66a49c54d2454861822/state.vscdb
+#	modified:   temp/logs/20231227T133623/window1/exthost/exthost.log
+#	modified:   temp/logs/20231227T133623/window1/exthost/vscode.git/Git.log
+#
+# Changes not staged for commit:
+#	modified:   temp/logs/20231227T133623/window1/exthost/vscode.git/Git.log
+#
