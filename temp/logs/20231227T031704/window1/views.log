@@ -42,3 +42,5 @@
 2023-12-27 03:42:13.040 [info] Added views:gitlens.views.timeline in workbench.view.extension.gitlensInspect
 2023-12-27 03:42:13.063 [info] Added views:gitlens.views.worktrees in workbench.view.scm
 2023-12-27 03:42:14.949 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2023-12-27 03:47:52.045 [info] Added views:workbench.views.extensions.installed,workbench.views.extensions.popular,extensions.recommendedList in workbench.view.extensions
+2023-12-27 03:47:52.062 [info] Removed views:workbench.views.extensions.popular from workbench.view.extensions
